@@ -5,6 +5,7 @@ int main()
    // Add your name to be printed below
    printf("Who has completed the tutorial?\n");
    printf("Natalia\n");
+   printf("Resha Mau\n");
 
    return 0;
 }
